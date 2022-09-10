@@ -1,0 +1,1 @@
+bend uniformli load rectangular plate adjac edg other either simpli support free distribut deflect bend moment uniformli load rectangular plate have adjac edg clamp other either simpli support free obtain method superposit numer valu given squar plate one case result compar those obtain anoth method

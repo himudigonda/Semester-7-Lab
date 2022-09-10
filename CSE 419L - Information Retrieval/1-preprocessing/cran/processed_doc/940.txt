@@ -1,0 +1,1 @@
+turbul free shear layer problem predict mean veloc streamlin through pre asymptot turbul free shear layer dimension incompress flow resolv into part linear momentum equat term gener axial ordin solv usual way relat between distanc separ point then establish analyt contrast previou use empir express shown except region close separ veloc streamlin predict simpl approxim propos kirk
